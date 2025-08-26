@@ -3,7 +3,7 @@
 Απλή Flask εφαρμογή που έγινε containerized με χρήση Docker και ανέβηκε στο Docker Hub.
 
 ## Περιγραφή
-- Εφαρμογή: Flask (επιστρέφει μήνυμα: "Hello from Flask in Docker!!")
+- Εφαρμογή: Flask (επιστρέφει μήνυμα: "Hello from Flask in Docker!!!")
 - Dockerfile: χρησιμοποιεί `python:3.12-slim`
 - Port: 8000
 - Εκτελεί την εφαρμογή με `python app.py`
